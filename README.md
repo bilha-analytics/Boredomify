@@ -12,7 +12,7 @@ My toddler niece is currently excited about cats. The cats collection is a nice 
 
 **Some screenshots**
 
-![listing](web_menu_list.png) ![image content](web_example_content_img.png) ![textual content](web_example_content_txt.png) 
+![listing](web_menu_list.png) ![image content](web_example_content_img.png) ![textual content](web_example_content_txt_2.png) 
 
 
 
