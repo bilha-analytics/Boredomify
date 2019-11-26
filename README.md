@@ -1,6 +1,6 @@
 # Boredomify
 
-A simple reader of random content from different public APIs. 
+A simple reader for random content from different public APIs. 
 
 
 ## How it works
