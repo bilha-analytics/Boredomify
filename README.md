@@ -6,7 +6,7 @@ A simple reader of random content from different public APIs.
 ## How it works
 Just select a category and click or swipe away for random content item under that category.
 
-My toddler niece is currently excited about cats. The cats collection is a nice distruction when needed. 
+My toddler niece is currently excited about cats. The cats collection is a nice distraction when needed. 
 
 
 
